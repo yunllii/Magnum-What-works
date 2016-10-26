@@ -1,0 +1,21 @@
+{
+  "name": "whatworks",
+  "version": "1.0.0",
+  "description": "This is the WhatWorks project for Magnum Foundation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Map",
+    "projection",
+    "touchscreen"
+  ],
+  "author": "yunllii",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
